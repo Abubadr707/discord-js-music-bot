@@ -3,8 +3,8 @@
 After you have cloned the repo make sure to create a `.env` file with the `TOKEN` and `CLIENT_ID` specified for example
 
 ```
-TOKEN=xxx
-CLIENT_ID=xxx
+TOKEN=MTMxNzY5NDI2OTkwMDcxODA5MA.Gz6_PJ.sOQUIW3IU_ipwD7VRK7JZ6Wa08v-aAqoerGrIU
+CLIENT_ID=1317694269900718090
 ```
 
 # Running with docker
